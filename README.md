@@ -1,4 +1,4 @@
-C2_javascript-sdk-template
+C2 javascript sdk template
 ==========================
 
 The Javascript SDK is licensed as CC0: http://creativecommons.org/publicdomain/zero/1.0/
