@@ -9,7 +9,7 @@ all without asking permission. However you must not imply the endorsement of Sci
 
 ##Construct 2
 
-[Construct 2](http://www.scirra.com) is a powerful ground breaking HTML5 game creator designed specifically for 2D games. It allows anyone to build games — no coding required!
+[Construct 2](https://www.scirra.com/construct2) is a powerful ground breaking HTML5 game creator designed specifically for 2D games. It allows anyone to build games — no coding required!
 It's great for beginners, and powerful enough to let experts work even quicker than by coding!
 
 
